@@ -5,9 +5,49 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
-arousel-item{
+
+.carousel-inner{
     padding: 20px 20px;
+    padding-left: 40px;
 }
 .prize{
+    
     color: #ff136f;
+}
+.cat1{
+    border-radius: 20px;
+    padding: 20px 20px;
+    background-color: orange;
+}
+.cat2{
+    border-radius: 20px;
+    padding: 20px 20px;
+background-color: red;
+}
+.cat3{
+    border-radius: 20px;
+    padding: 20px 20px;
+background-color: blue;
+}
+.colour h1{
+    color: white;
+}
+.colour img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+h5{
+    font-weight: bold;
+}
+#contactus{
+    height: 250PX;
+}
+#contactus h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
